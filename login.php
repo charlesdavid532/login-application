@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-        // TODOS:
+        // TODOS: http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL
         // 1. Create database connection
         // 2. Start session
         // 3. See online documentation for login
@@ -19,7 +19,7 @@
         // 5.b Allow the user to edit. i.e give him an edit icon
         // 6. Create an admin panel. Same login. Search how this is done. 
         // 6.a Show all users and their choices. Allow to delete.
-        
+        // 7. Payment gateway
         
         $name = $password = $usernameErr = $passwordErr = "";
 
