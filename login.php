@@ -9,6 +9,17 @@
 </head>
 <body>
     <?php
+        // TODOS:
+        // 1. Create database connection
+        // 2. Start session
+        // 3. See online documentation for login
+        // 4. Create registration page
+        // 5. (AJAX only) Create a page where users can select either option A or option B. Reflect this option here itself i.e he has chosen A or B
+        // 5.a Once the user submits this disables
+        // 5.b Allow the user to edit. i.e give him an edit icon
+        // 6. Create an admin panel. Same login. Search how this is done. 
+        // 6.a Show all users and their choices. Allow to delete.
+        
         
         $name = $password = $usernameErr = $passwordErr = "";
 
